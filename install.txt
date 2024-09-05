@@ -1,5 +1,1 @@
-sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
-
-sudo zip -r  freedomtech.zip freedomtech/*
-
-pip install paddlepaddle paddleocr
+paddlepaddle paddleocr
