@@ -1,1 +1,8 @@
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
 paddlepaddle paddleocr
+
+sudo zip -r  freedomtech.zip freedomtech/*
+
+
+
